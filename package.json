@@ -10,9 +10,7 @@
     "create-sparkvite": "./sparkvite.js"
   },
   "scripts": {
-    "dev": "node sparkvite.js",
-    "lint": "eslint . --ext .js,.ts",
-    "prepare": "npm run lint"
+    "dev": "node sparkvite.js"
   },
   "repository": {
     "type": "git",
