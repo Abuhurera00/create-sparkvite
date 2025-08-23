@@ -1,6 +1,6 @@
 {
   "name": "create-sparkvite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "⚡ A blazing fast CLI to scaffold React + Vite + ShadCN UI projects with zero config.",
   "license": "MIT",
   "author": "Abuhurera <hurerag24@gmail.com> (https://github.com/Abuhurera00)",
