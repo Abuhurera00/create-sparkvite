@@ -23,3 +23,8 @@ You don’t need to install globally. Just run:
 
 ```bash
 npx create-sparkvite@latest
+```
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
