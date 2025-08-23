@@ -1,0 +1,48 @@
+{
+  "name": "create-sparkvite",
+  "version": "1.0.0",
+  "description": "⚡ A blazing fast CLI to scaffold React + Vite + ShadCN UI projects with zero config.",
+  "license": "MIT",
+  "author": "Abuhurera <hurerag24@gmail.com> (https://github.com/Abuhurera00)",
+  "type": "module",
+  "main": "sparkvite.js",
+  "bin": {
+    "create-sparkvite": "./sparkvite.js"
+  },
+  "scripts": {
+    "dev": "node sparkvite.js",
+    "lint": "eslint . --ext .js,.ts",
+    "prepare": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abuhurera00/create-sparkvite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abuhurera00/create-sparkvite/issues"
+  },
+  "homepage": "https://github.com/yourusername/create-sparkvite#readme",
+  "keywords": [
+    "vite",
+    "react",
+    "shadcn",
+    "cli",
+    "scaffolding",
+    "project-generator",
+    "javascript",
+    "typescript",
+    "tailwindcss",
+    "radix-ui",
+    "component-library",
+    "starter-template"
+  ],
+  "dependencies": {
+    "inquirer": "^12.9.3"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
