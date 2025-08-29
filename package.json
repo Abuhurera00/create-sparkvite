@@ -35,7 +35,9 @@
     "starter-template"
   ],
   "dependencies": {
-    "inquirer": "^12.9.3"
+    "inquirer": "^12.9.3",
+    "chalk": "^5.6.0",
+    "ora": "^8.2.0"
   },
   "engines": {
     "node": ">=18"
@@ -43,8 +45,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "devDependencies": {
-    "chalk": "^5.6.0",
-    "ora": "^8.2.0"
-  }
+  "devDependencies": {}
 }
