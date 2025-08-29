@@ -1,6 +1,6 @@
 {
   "name": "create-sparkvite",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A blazing fast, opinionated CLI to scaffold React + Vite + Tailwind CSS v4 projects with modern tooling and zero configuration.",
   "license": "MIT",
   "author": "Abuhurera <hurerag24@gmail.com> (https://github.com/Abuhurera00)",
