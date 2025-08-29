@@ -1,7 +1,7 @@
 {
   "name": "create-sparkvite",
   "version": "1.0.2",
-  "description": "⚡ A blazing fast CLI to scaffold React + Vite + ShadCN UI projects with zero config.",
+  "description": "A blazing fast, opinionated CLI to scaffold React + Vite + Tailwind CSS v4 projects with modern tooling and zero configuration.",
   "license": "MIT",
   "author": "Abuhurera <hurerag24@gmail.com> (https://github.com/Abuhurera00)",
   "type": "module",
@@ -42,5 +42,9 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "chalk": "^5.6.0",
+    "ora": "^8.2.0"
   }
 }
